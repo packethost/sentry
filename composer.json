@@ -65,7 +65,8 @@
 			"2": "master"
 		},
 		"branch-alias": {
-			"dev-master": "2.0-dev"
+			"dev-master": "2.0-dev",
+			"dev-laravel-5.5": "2.1-dev"
 		}
 	},
 	"minimum-stability": "dev"
